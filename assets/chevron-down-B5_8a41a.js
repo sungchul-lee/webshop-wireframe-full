@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-sJBDdmOt.js";import{ht as t,mt as n}from"./FormContext-B1EkjbU2.js";var r,i;function a(){return(a=e((()=>{t(),r={name:`chevron-down`,size:24,node:[[`path`,{d:`m6 9 6 6 6-6`,key:`qrunsl`}]]},r.node,i=n(r)})))()}export{a as n,i as t};

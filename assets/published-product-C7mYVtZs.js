@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-sJBDdmOt.js";function t(e){return e.products.filter(e=>!e.deletedFromPayment).toSorted((e,t)=>e.order-t.order)}function n(e,n){for(let r of e?.categories??[]){let e=t(r).find(e=>e.id===n);if(e)return{product:e,category:r}}return null}function r(){return(r=e((()=>{})))()}export{r as n,t as r,n as t};

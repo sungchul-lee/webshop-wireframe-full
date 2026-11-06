@@ -1,0 +1,2 @@
+import{n as e}from"./rolldown-runtime-sJBDdmOt.js";import{n as t}from"./react-dom-CwkDzVs4.js";import{On as n}from"./iframe-CT6OUoJY.js";function r({text:e}){return e.split(`
+`).map((e,t)=>(0,a.jsxs)(i.Fragment,{children:[t>0&&(0,a.jsx)(`br`,{}),e]},t))}var i,a;function o(){return(o=e((()=>{i=t(),a=n()})))()}export{o as n,r as t};

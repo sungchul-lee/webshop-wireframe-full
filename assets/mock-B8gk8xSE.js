@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-sJBDdmOt.js";var t,n,r,i,a;function o(){return(o=e((()=>{t=`WEBSHOP`,n=`https://brand.example.com/webshop/terms.pdf`,r=[{service:`Payment`,status:`활성화`},{service:t,status:`심사 중`}],i=[],a=[t]})))()}export{n as a,t as i,i as n,o,a as r,r as t};

@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-sJBDdmOt.js";import{c as t,i as n,t as r}from"./format-CRK3OQkd.js";function i(e,t=r){return t<e.startAt?`예약`:t<e.endAt?`진행 중`:`종료`}function a({startAt:e,endAt:t}){return`${n(e)} ~ ${n(t)} (UTC+9)`}function o(){return(o=e((()=>{t()})))()}export{i as n,o as r,a as t};

@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-sJBDdmOt.js";import{ht as t,mt as n}from"./FormContext-B1EkjbU2.js";var r,i;function a(){return(a=e((()=>{t(),r={name:`plus`,size:24,node:[[`path`,{d:`M5 12h14`,key:`1ays0h`}],[`path`,{d:`M12 5v14`,key:`s699le`}]]},r.node,i=n(r)})))()}export{a as n,i as t};
